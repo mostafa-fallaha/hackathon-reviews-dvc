@@ -1,0 +1,4 @@
+[core]
+    remote = reviews_remote
+['remote "reviews_remote"']
+    url = gdrive://1eGIoptoiOUdIo0yVkoCXNiIox2Ey-AgC

@@ -8,7 +8,7 @@ args = parser.parse_args()
 
 # Define variables
 data_file = "data/googleplaystore_user_reviews.csv"
-dvc_file = "data/googleplaystore_user_reviews.csv.dvc"
+dvc_file = "data\googleplaystore_user_reviews.csv.dvc"
 gitignore_file = "data/.gitignore"
 # script_file = "version_data_apps.py"
 commit_message = args.commit_message
